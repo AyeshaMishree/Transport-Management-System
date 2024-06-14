@@ -39,3 +39,6 @@ Run project form form 'PresentationLayer.aspx' present in layer/tier
 'TMSSystem1'. (as it is home page)
 Internet will be needed.
 ----------------------------------------------------
+Download complete zip file from this link
+https://drive.google.com/file/d/1I-dDV_thE6A7osPs_6K7Sr2hNqEYiYFv/view?usp=sharing
+
